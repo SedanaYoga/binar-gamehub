@@ -39,6 +39,8 @@
 
 ## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://sedanayoga.github.io/binar-gamehub/)
+
 A repository for completing Binar Fullstack Web Development Bootcamp - Chapter 3.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -74,10 +76,6 @@ You can run it by opening `index.html` file or creating Live Server via VSCode e
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
@@ -96,3 +94,5 @@ Sedana Yoga - [@cok_yoga](https://twitter.com/Cok_Yoga)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[product-screenshot]: images/project-preview.png
