@@ -61,13 +61,9 @@ Tools: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Prerequisites
 
-If you want to edit the code, you need to have `NPM` first for installing `Sass` package so you can use all `Sass` capability.
+If you want to edit the code, you need to have `nodejs` and `NPM` first for installing `Sass` package so you can use all `Sass` capability.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-- installing sass
+- Install `sass` by this command if you already get node and npm installed in your system.
   ```sh
   npm install
   ```
