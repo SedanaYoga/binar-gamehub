@@ -9,7 +9,7 @@
     Play Traditional Game and Experience new traditional game online.
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://sedanayoga.github.io/binar-gamehub/">View Demo</a>
   </p>
 </div>
 
