@@ -95,4 +95,4 @@ Sedana Yoga - [@cok_yoga](https://twitter.com/Cok_Yoga)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: images/project-preview.png
+[product-screenshot]: images/project-preview.jpg

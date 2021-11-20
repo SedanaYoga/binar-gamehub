@@ -13,14 +13,14 @@
       rgba(0, 0, 0, 0) 19.22%,
       #000 99.74%
     ),
-    url(../../images/requirements-edit.png);
+    url(../../images/requirements-edit.jpg);
   @include media-breakpoint-down(lg) {
     background-image: radial-gradient(
         33.26% 45% at 64.32% 47.1%,
         rgba(0, 0, 0, 0.7) 40.22%,
         #000 99.74%
       ),
-      url(../../images/requirements-edit.png);
+      url(../../images/requirements-edit.jpg);
   }
   background-position: center;
   background-repeat: no-repeat;
