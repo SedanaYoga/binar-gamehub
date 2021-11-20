@@ -2,7 +2,7 @@
 @use '../components/mixins' as *;
 
 .main-btn {
-  height: 60px;
+  min-height: 60px;
   width: 260px;
   border-radius: 4px;
   font-family: Open Sans;

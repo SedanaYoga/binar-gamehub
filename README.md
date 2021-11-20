@@ -21,6 +21,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#feature">Features</a></li>
       </ul>
     </li>
     <li>
@@ -54,6 +55,19 @@ The following lists show my development stack:
 - [Sass](https://sass-lang.com/)
 
 Tools: [Visual Studio Code](https://code.visualstudio.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Feature
+
+Since we are using Bootstrap as main CSS framework, I managed to enhance my project with Bootstrap Layout, Components, Utilities. The following lists are some of main feature:
+
+- `Bootstrap Navbar` with a bit modification => layouting logo, menu, and signin/up
+- `Bootstrap Carousel` with `Sass` modification => Indicator, Navigation button, Border radius
+- `CSS Animation` on `Scroll Story` button
+- `FULLY RESPONSIVE` until small breakpoint (`sm` Bootstrap Breakpoint)
+
+Please refer to the `Bootstrap v5.1` and `Sass` documentation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
